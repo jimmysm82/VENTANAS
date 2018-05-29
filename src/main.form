@@ -121,7 +121,7 @@
     </Component>
     <Component class="javax.swing.JLabel" name="jLabelHello">
       <Properties>
-        <Property name="text" type="java.lang.String" value="jLabel1fgdfgdfgd"/>
+        <Property name="text" type="java.lang.String" value="cambios!!"/>
       </Properties>
     </Component>
     <Component class="javax.swing.JTextField" name="jTextFieldN1">

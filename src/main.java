@@ -49,7 +49,7 @@ public class main extends javax.swing.JFrame {
             }
         });
 
-        jLabelHello.setText("jLabel1fgdfgdfgd");
+        jLabelHello.setText("cambios!!");
 
         jButton1.setText("Operar");
         jButton1.addActionListener(new java.awt.event.ActionListener() {
